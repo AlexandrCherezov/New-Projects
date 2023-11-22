@@ -45,7 +45,8 @@ TED (от англ. technology, education, design — «технологии, о
  
 ## Используемые инструменты
 - **Python**  
-- **Tableau** 
+- **Tableau**
+- **PowerPoint**
 
 ## Используемые библиотеки
 - **pandas**  
